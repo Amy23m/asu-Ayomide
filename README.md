@@ -1,1 +1,2 @@
-# asu-ayomide
+# GitHub username
+Student name: Ayomide Oshilaja
